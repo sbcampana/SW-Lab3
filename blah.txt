@@ -1,1 +1,2 @@
 This is just an example of a txt file
+I changed this file in my new branch
